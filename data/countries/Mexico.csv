@@ -1,0 +1,110 @@
+Country,City,Season,PM2.5,PM10,NO2,SO2,CO,O3,AQI_Value,AQI_Category
+Mexico,Monterrey,Spring,64.03,151.5,22.3,23.8,3.92,110.01,209.1,Very Unhealthy
+Mexico,Guadalajara,Spring,74.75,146.36,17.31,19.31,0.266,79.27,210.4,Very Unhealthy
+Mexico,Monterrey,Winter,44.24,97.97,23.5,19.95,1.975,75.46,137.1,Unhealthy for Sensitive Groups
+Mexico,Mexico City,Autumn,59.84,107.82,73.59,42.25,3.089,76.69,219.7,Very Unhealthy
+Mexico,Guadalajara,Autumn,13.75,34.37,,28.81,1.994,74.93,135.9,Unhealthy for Sensitive Groups
+Mexico,Guadalajara,Winter,51.34,103.93,56.84,35.49,1.544,100.97,190.1,Unhealthy
+Mexico,Monterrey,Spring,34.73,74.43,11.5,31.23,0.786,71.74,114.9,Unhealthy for Sensitive Groups
+Mexico,Mexico City,Autumn,54.94,123.79,69.96,2.26,2.098,53.54,175.1,Unhealthy
+Mexico,Guadalajara,Summer,28.84,52.73,,16.07,2.588,72.7,128.3,Unhealthy for Sensitive Groups
+Mexico,Monterrey,Autumn,86.01,154.82,45.35,26.57,1.682,64.98,206.8,Very Unhealthy
+Mexico,Mexico City,Spring,48.48,116.1,55.49,4.26,4.97,37.99,183.5,Unhealthy
+Mexico,Mexico City,Summer,77.77,130.92,35.87,11.96,2.754,82.05,216.6,Very Unhealthy
+Mexico,Mexico City,Winter,10.1,16.95,18.41,26.95,2.757,83.05,96.9,Moderate
+Mexico,Mexico City,Summer,109.45,170.12,41.17,39.25,3.346,27.01,261.7,Very Unhealthy
+Mexico,Mexico City,Summer,115.28,201.01,65.27,0.98,2.331,85.96,293.8,Very Unhealthy
+Mexico,Monterrey,Spring,103.98,202.73,65.13,29.36,4.799,27.57,287.0,Very Unhealthy
+Mexico,Mexico City,Summer,84.64,156.18,17.2,7.2,0.702,64.59,192.6,Unhealthy
+Mexico,Monterrey,Spring,52.56,113.76,47.79,32.0,2.636,89.02,198.2,Unhealthy
+Mexico,Guadalajara,Autumn,75.5,184.63,30.02,16.37,3.232,103.14,218.2,Very Unhealthy
+Mexico,Mexico City,Spring,45.87,92.09,35.04,11.89,2.431,85.9,185.6,Unhealthy
+Mexico,Guadalajara,Summer,52.54,102.01,86.47,34.93,4.063,30.09,196.7,Unhealthy
+Mexico,Monterrey,Winter,89.56,189.76,28.53,8.93,2.004,88.41,238.5,Very Unhealthy
+Mexico,Monterrey,Spring,,161.45,64.67,30.92,2.195,66.67,202.5,Very Unhealthy
+Mexico,Mexico City,Autumn,63.46,156.42,,19.71,2.159,58.24,171.0,Unhealthy
+Mexico,Monterrey,Winter,70.14,133.25,17.85,47.92,4.111,127.64,250.5,Very Unhealthy
+Mexico,Mexico City,Winter,66.91,140.48,43.12,,0.299,60.6,171.1,Unhealthy
+Mexico,Mexico City,Summer,66.48,135.39,50.65,20.34,1.446,30.11,190.4,Unhealthy
+Mexico,Mexico City,Winter,35.4,74.62,29.61,21.19,1.261,122.6,155.0,Unhealthy
+Mexico,Guadalajara,Summer,29.64,72.15,51.56,35.07,2.78,91.84,141.7,Unhealthy for Sensitive Groups
+Mexico,Mexico City,Spring,77.45,186.1,33.12,5.82,2.906,101.7,234.2,Very Unhealthy
+Mexico,Guadalajara,Summer,46.67,72.59,61.47,17.13,0.521,94.17,136.1,Unhealthy for Sensitive Groups
+Mexico,Mexico City,Summer,88.88,,,9.27,2.656,85.13,264.2,Very Unhealthy
+Mexico,Guadalajara,Winter,66.37,157.78,58.35,21.8,1.131,99.66,195.6,Unhealthy
+Mexico,Guadalajara,Summer,52.39,116.83,11.28,16.86,3.078,76.62,146.7,Unhealthy for Sensitive Groups
+Mexico,Mexico City,Spring,70.46,120.12,84.82,6.01,0.619,40.17,188.1,Unhealthy
+Mexico,Mexico City,Autumn,47.39,105.34,76.95,20.1,1.735,42.8,166.0,Unhealthy
+Mexico,Monterrey,Summer,62.08,94.07,51.11,5.35,2.774,57.25,186.2,Unhealthy
+Mexico,Mexico City,Autumn,47.37,74.39,39.18,23.14,1.193,51.8,151.1,Unhealthy
+Mexico,Mexico City,Summer,41.2,68.36,42.38,51.09,2.535,102.33,173.1,Unhealthy
+Mexico,Guadalajara,Spring,49.82,94.19,37.38,20.25,1.906,62.18,150.2,Unhealthy
+Mexico,Guadalajara,Autumn,133.7,281.68,45.37,24.21,3.984,99.86,353.5,Hazardous
+Mexico,Monterrey,Spring,22.98,50.96,24.85,21.66,2.825,40.74,108.3,Unhealthy for Sensitive Groups
+Mexico,Monterrey,Autumn,29.07,44.12,47.92,31.38,3.411,58.07,147.0,Unhealthy for Sensitive Groups
+Mexico,Guadalajara,Autumn,26.73,,67.58,15.82,3.179,80.59,133.8,Unhealthy for Sensitive Groups
+Mexico,Mexico City,Summer,87.49,132.42,89.63,21.87,1.959,27.63,235.4,Very Unhealthy
+Mexico,Monterrey,Spring,61.56,104.3,77.86,45.9,2.252,87.31,228.9,Very Unhealthy
+Mexico,Monterrey,Spring,36.75,58.6,0.37,0.62,4.67,36.88,119.5,Unhealthy for Sensitive Groups
+Mexico,Monterrey,Autumn,24.32,55.96,29.81,18.37,3.199,50.21,133.0,Unhealthy for Sensitive Groups
+Mexico,Mexico City,Winter,81.17,163.02,12.13,18.41,4.298,105.76,255.2,Very Unhealthy
+Mexico,Mexico City,Winter,85.39,174.94,1.39,31.36,3.473,49.66,222.8,Very Unhealthy
+Mexico,Guadalajara,Autumn,100.14,180.17,26.43,27.22,1.725,60.6,236.1,Very Unhealthy
+Mexico,Monterrey,Winter,76.82,171.72,12.11,16.18,2.955,22.02,180.5,Unhealthy
+Mexico,Mexico City,Spring,89.46,178.28,31.31,7.17,4.086,27.3,235.5,Very Unhealthy
+Mexico,Guadalajara,Summer,103.84,206.72,64.75,27.56,2.557,68.35,285.4,Very Unhealthy
+Mexico,Monterrey,Summer,25.16,38.99,80.48,22.04,2.728,91.81,175.1,Unhealthy
+Mexico,Guadalajara,Summer,32.45,71.09,60.37,16.67,2.695,30.57,134.6,Unhealthy for Sensitive Groups
+Mexico,Guadalajara,Winter,53.25,126.9,40.39,18.66,3.601,25.81,176.3,Unhealthy
+Mexico,Mexico City,Summer,94.12,163.61,29.46,22.53,1.438,97.94,226.8,Very Unhealthy
+Mexico,Monterrey,Winter,61.09,112.96,36.39,31.07,0.857,76.58,167.5,Unhealthy
+Mexico,Mexico City,Spring,96.47,205.54,47.43,9.31,1.927,96.74,246.9,Very Unhealthy
+Mexico,Monterrey,Autumn,59.46,143.17,62.89,27.48,4.087,80.77,220.5,Very Unhealthy
+Mexico,Monterrey,Autumn,25.61,56.71,53.66,8.23,5.137,67.02,144.8,Unhealthy for Sensitive Groups
+Mexico,Mexico City,Spring,127.12,228.13,58.16,17.38,1.955,64.26,302.3,Hazardous
+Mexico,Monterrey,Autumn,65.2,97.9,78.6,,2.614,29.25,184.8,Unhealthy
+Mexico,Mexico City,Winter,60.39,127.8,61.44,2.23,1.062,123.83,184.5,Unhealthy
+Mexico,Mexico City,Spring,,,54.27,31.94,3.67,28.45,151.8,Unhealthy
+Mexico,Mexico City,Spring,26.79,58.86,75.93,21.98,2.641,91.7,161.4,Unhealthy
+Mexico,Mexico City,Summer,,34.64,80.08,2.85,1.919,86.84,120.1,Unhealthy for Sensitive Groups
+Mexico,Mexico City,Autumn,53.26,81.22,,20.17,1.76,29.45,169.8,Unhealthy
+Mexico,Guadalajara,Autumn,29.26,65.71,41.33,11.62,5.381,23.56,141.8,Unhealthy for Sensitive Groups
+Mexico,Mexico City,Winter,101.02,167.19,104.73,0.54,0.345,122.64,303.7,Hazardous
+Mexico,Guadalajara,Summer,84.92,164.23,61.82,9.32,1.274,5.68,207.9,Very Unhealthy
+Mexico,Monterrey,Spring,24.47,41.0,31.89,22.62,0.669,89.04,114.2,Unhealthy for Sensitive Groups
+Mexico,Monterrey,Summer,18.36,44.34,71.1,18.96,1.954,88.98,133.3,Unhealthy for Sensitive Groups
+Mexico,Monterrey,Spring,44.9,92.71,87.99,34.53,1.915,77.64,188.9,Unhealthy
+Mexico,Guadalajara,Summer,32.68,75.41,72.45,16.65,2.632,73.94,160.0,Unhealthy
+Mexico,Guadalajara,Summer,46.16,92.72,22.52,47.57,1.642,78.29,160.0,Unhealthy
+Mexico,Guadalajara,Autumn,77.24,145.69,50.52,9.11,0.732,73.25,202.0,Very Unhealthy
+Mexico,Mexico City,Spring,78.25,,37.26,19.4,4.815,20.17,230.3,Very Unhealthy
+Mexico,Guadalajara,Summer,83.39,180.07,42.17,30.82,2.908,96.31,237.2,Very Unhealthy
+Mexico,Guadalajara,Autumn,31.59,72.69,32.9,24.76,0.024,73.63,119.2,Unhealthy for Sensitive Groups
+Mexico,Mexico City,Summer,97.77,220.69,11.21,34.48,3.382,75.78,250.5,Very Unhealthy
+Mexico,Monterrey,Winter,102.3,246.38,50.55,23.94,5.4,45.92,291.2,Very Unhealthy
+Mexico,Guadalajara,Summer,52.67,130.05,32.13,25.85,2.39,81.2,168.3,Unhealthy
+Mexico,Monterrey,Summer,25.14,61.16,50.4,14.37,3.112,91.59,156.0,Unhealthy
+Mexico,Guadalajara,Autumn,34.39,52.83,89.15,30.6,1.315,72.7,182.0,Unhealthy
+Mexico,Monterrey,Spring,83.56,131.46,77.57,8.34,1.945,66.07,245.2,Very Unhealthy
+Mexico,Mexico City,Winter,141.13,242.94,73.99,34.84,1.733,54.05,338.7,Hazardous
+Mexico,Monterrey,Autumn,13.51,,16.74,19.46,0.28,113.11,90.9,Moderate
+Mexico,Monterrey,Spring,22.21,33.55,30.32,31.0,1.078,89.85,134.8,Unhealthy for Sensitive Groups
+Mexico,Mexico City,Winter,63.98,144.84,27.08,13.78,2.303,69.6,186.3,Unhealthy
+Mexico,Guadalajara,Autumn,89.73,176.92,83.24,19.66,3.403,101.54,281.7,Very Unhealthy
+Mexico,Guadalajara,Autumn,51.15,,67.5,5.12,2.312,67.97,186.6,Unhealthy
+Mexico,Monterrey,Autumn,65.1,161.53,78.15,28.51,0.276,38.35,178.7,Unhealthy
+Mexico,Monterrey,Summer,109.66,183.76,62.57,32.49,1.281,36.52,268.5,Very Unhealthy
+Mexico,Monterrey,Winter,32.69,53.77,49.76,12.91,1.492,54.5,121.5,Unhealthy for Sensitive Groups
+Mexico,Guadalajara,Winter,15.87,27.37,45.95,0.69,1.598,22.93,77.8,Moderate
+Mexico,Monterrey,Winter,83.54,132.22,63.11,9.16,2.668,75.41,246.3,Very Unhealthy
+Mexico,Mexico City,Spring,37.55,91.76,70.12,18.18,2.098,60.02,167.9,Unhealthy
+Mexico,Guadalajara,Winter,46.49,108.1,0.66,12.26,0.692,41.64,97.4,Moderate
+Mexico,Mexico City,Winter,,177.46,58.95,30.34,2.97,49.72,212.3,Very Unhealthy
+Mexico,Guadalajara,Winter,6.3,12.78,,10.52,2.132,14.35,84.1,Moderate
+Mexico,Guadalajara,Winter,61.32,132.54,27.98,22.08,1.726,62.41,177.6,Unhealthy
+Mexico,Guadalajara,Winter,76.95,,40.14,,1.495,91.48,210.4,Very Unhealthy
+Mexico,Monterrey,Winter,8.79,19.39,73.05,0.98,1.383,85.26,89.4,Moderate
+Mexico,Monterrey,Autumn,62.11,125.49,63.75,14.87,3.596,83.21,226.3,Very Unhealthy
+Mexico,Monterrey,Summer,48.19,108.94,32.78,26.08,2.953,68.32,165.3,Unhealthy
+Mexico,Guadalajara,Autumn,51.87,79.89,80.35,3.58,3.505,69.47,193.6,Unhealthy
+Mexico,Guadalajara,Autumn,46.92,84.85,31.21,26.47,2.106,75.49,161.0,Unhealthy

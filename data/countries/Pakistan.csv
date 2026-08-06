@@ -1,0 +1,89 @@
+Country,City,Season,PM2.5,PM10,NO2,SO2,CO,O3,AQI_Value,AQI_Category
+Pakistan,Lahore,Spring,160.34,377.08,91.09,11.27,1.843,110.6,395.3,Hazardous
+Pakistan,Lahore,Summer,81.84,132.96,17.15,8.01,5.554,85.01,253.3,Very Unhealthy
+Pakistan,Rawalpindi,Spring,62.35,101.84,25.35,,6.814,98.99,249.1,Very Unhealthy
+Pakistan,Rawalpindi,Summer,104.74,237.55,154.28,33.29,2.706,92.37,332.6,Hazardous
+Pakistan,Rawalpindi,Autumn,43.2,73.99,25.91,8.51,5.064,151.61,205.1,Very Unhealthy
+Pakistan,Rawalpindi,Autumn,4.75,9.32,96.02,11.98,2.771,142.33,132.3,Unhealthy for Sensitive Groups
+Pakistan,Lahore,Autumn,20.02,42.16,94.38,54.26,5.05,104.69,190.1,Unhealthy
+Pakistan,Islamabad,Summer,49.86,81.01,94.25,38.77,2.85,164.88,241.7,Very Unhealthy
+Pakistan,Islamabad,Spring,37.31,58.6,37.23,35.08,2.842,82.48,154.3,Unhealthy
+Pakistan,Islamabad,Spring,73.76,152.93,7.73,57.6,2.039,95.01,226.0,Very Unhealthy
+Pakistan,Lahore,Autumn,73.34,113.39,44.99,0.09,3.76,97.58,237.8,Very Unhealthy
+Pakistan,Lahore,Winter,119.46,287.44,23.97,0.91,5.039,96.9,309.0,Hazardous
+Pakistan,Rawalpindi,Summer,130.52,294.05,59.09,6.73,4.395,108.36,363.6,Hazardous
+Pakistan,Karachi,Winter,106.14,232.43,85.06,35.37,2.203,124.74,315.9,Hazardous
+Pakistan,Karachi,Autumn,77.96,119.21,67.47,22.17,4.7,110.66,273.7,Very Unhealthy
+Pakistan,Islamabad,Autumn,155.06,371.93,36.77,32.13,1.375,80.75,336.9,Hazardous
+Pakistan,Lahore,Spring,78.54,193.39,31.71,5.64,0.965,37.15,177.7,Unhealthy
+Pakistan,Islamabad,Winter,98.45,150.1,94.65,34.67,2.246,96.9,293.2,Very Unhealthy
+Pakistan,Lahore,Winter,97.83,225.07,100.67,54.55,5.59,61.54,335.5,Hazardous
+Pakistan,Islamabad,Summer,71.26,170.95,98.68,30.13,6.25,140.99,319.3,Hazardous
+Pakistan,Karachi,Winter,137.9,258.84,64.97,15.84,2.852,63.3,361.5,Hazardous
+Pakistan,Lahore,Spring,44.3,77.87,97.12,41.17,5.979,75.13,223.9,Very Unhealthy
+Pakistan,Karachi,Summer,163.34,361.59,93.58,51.36,5.392,84.16,442.8,Hazardous
+Pakistan,Karachi,Autumn,152.03,352.58,60.58,55.46,5.572,97.63,433.3,Hazardous
+Pakistan,Rawalpindi,Autumn,137.63,292.1,56.28,64.05,0.902,69.83,330.3,Hazardous
+Pakistan,Islamabad,Summer,103.22,251.3,58.65,,4.63,112.37,329.9,Hazardous
+Pakistan,Lahore,Spring,98.99,206.21,67.6,49.9,2.996,127.85,301.8,Hazardous
+Pakistan,Lahore,Winter,76.64,139.59,50.94,6.58,6.966,53.01,248.2,Very Unhealthy
+Pakistan,Lahore,Summer,55.45,90.24,62.46,46.96,4.103,116.08,226.5,Very Unhealthy
+Pakistan,Islamabad,Spring,55.28,107.99,57.63,61.26,5.919,128.39,255.5,Very Unhealthy
+Pakistan,Lahore,Spring,2.78,4.24,93.74,19.69,3.442,38.37,126.2,Unhealthy for Sensitive Groups
+Pakistan,Islamabad,Autumn,49.56,89.97,43.1,40.65,7.581,62.18,220.7,Very Unhealthy
+Pakistan,Rawalpindi,Autumn,88.52,192.37,104.34,6.93,8.959,106.24,345.2,Hazardous
+Pakistan,Islamabad,Autumn,130.85,322.47,70.46,48.38,4.835,73.53,371.6,Hazardous
+Pakistan,Islamabad,Winter,152.52,302.57,121.34,21.9,4.607,24.06,409.4,Hazardous
+Pakistan,Rawalpindi,Autumn,127.73,302.9,92.63,40.05,4.779,71.03,371.1,Hazardous
+Pakistan,Rawalpindi,Spring,39.62,64.42,70.11,20.29,4.853,109.66,220.2,Very Unhealthy
+Pakistan,Karachi,Autumn,45.7,109.69,51.08,13.02,2.239,115.78,195.7,Unhealthy
+Pakistan,Islamabad,Summer,65.57,108.11,91.57,,1.433,93.91,226.5,Very Unhealthy
+Pakistan,Karachi,Winter,91.01,155.55,74.29,34.79,2.709,84.05,281.0,Very Unhealthy
+Pakistan,Karachi,Summer,84.75,199.04,78.19,44.89,1.823,50.72,224.8,Very Unhealthy
+Pakistan,Lahore,Autumn,115.28,179.11,85.24,52.61,2.698,107.55,355.8,Hazardous
+Pakistan,Karachi,Winter,7.78,11.86,37.21,42.32,5.464,57.82,129.5,Unhealthy for Sensitive Groups
+Pakistan,Karachi,Winter,32.89,81.64,144.42,19.67,4.266,38.02,198.5,Unhealthy
+Pakistan,Islamabad,Spring,71.3,151.31,70.55,34.27,5.981,103.77,271.8,Very Unhealthy
+Pakistan,Lahore,Winter,50.53,81.48,29.66,55.81,6.428,138.33,237.3,Very Unhealthy
+Pakistan,Lahore,Autumn,149.45,297.77,128.76,15.49,3.061,180.17,443.9,Hazardous
+Pakistan,Rawalpindi,Spring,108.06,193.08,53.3,,2.233,157.67,299.5,Very Unhealthy
+Pakistan,Lahore,Autumn,,176.66,66.36,6.2,5.525,152.14,325.6,Hazardous
+Pakistan,Lahore,Autumn,36.63,82.33,81.69,43.38,7.99,162.55,249.2,Very Unhealthy
+Pakistan,Karachi,Winter,,89.28,,,0.526,96.57,144.4,Unhealthy for Sensitive Groups
+Pakistan,Lahore,Spring,78.63,152.36,66.6,13.43,3.667,49.1,239.1,Very Unhealthy
+Pakistan,Karachi,Winter,105.71,234.58,112.84,37.08,5.411,58.38,329.6,Hazardous
+Pakistan,Islamabad,Spring,139.01,282.25,49.02,26.87,4.689,73.69,355.8,Hazardous
+Pakistan,Lahore,Winter,86.9,156.91,83.66,18.26,4.955,129.93,316.0,Hazardous
+Pakistan,Karachi,Summer,142.78,272.3,81.63,6.69,3.965,71.45,367.5,Hazardous
+Pakistan,Rawalpindi,Autumn,,117.38,48.72,39.44,3.172,98.92,238.1,Very Unhealthy
+Pakistan,Islamabad,Winter,48.93,75.43,126.17,33.25,4.742,47.43,220.0,Very Unhealthy
+Pakistan,Lahore,Spring,37.43,81.67,116.1,,2.644,120.91,210.2,Very Unhealthy
+Pakistan,Islamabad,Summer,73.94,145.56,56.31,39.58,0.968,82.18,212.0,Very Unhealthy
+Pakistan,Rawalpindi,Autumn,37.79,79.31,96.61,22.3,3.152,103.94,205.0,Very Unhealthy
+Pakistan,Karachi,Summer,96.58,180.15,146.98,73.92,1.703,155.73,328.8,Hazardous
+Pakistan,Islamabad,Winter,84.96,195.55,37.29,,3.712,64.77,248.1,Very Unhealthy
+Pakistan,Lahore,Autumn,75.49,178.61,95.83,21.75,3.539,147.2,304.3,Hazardous
+Pakistan,Lahore,Spring,93.28,207.27,124.08,33.98,6.189,104.34,348.1,Hazardous
+Pakistan,Lahore,Summer,89.19,191.09,32.79,21.44,2.535,100.95,245.1,Very Unhealthy
+Pakistan,Islamabad,Winter,81.1,176.17,123.76,47.02,5.224,150.33,329.4,Hazardous
+Pakistan,Karachi,Autumn,151.66,357.09,12.03,22.26,4.6,113.38,363.7,Hazardous
+Pakistan,Lahore,Spring,39.69,69.82,61.77,21.52,6.261,112.72,227.9,Very Unhealthy
+Pakistan,Karachi,Summer,6.93,13.89,104.29,33.3,9.583,110.67,223.0,Very Unhealthy
+Pakistan,Islamabad,Spring,110.22,,40.51,14.69,3.377,103.6,292.5,Very Unhealthy
+Pakistan,Rawalpindi,Autumn,37.15,86.87,160.14,38.74,1.168,149.43,248.0,Very Unhealthy
+Pakistan,Lahore,Winter,123.63,308.87,61.51,25.29,0.395,127.82,304.5,Hazardous
+Pakistan,Rawalpindi,Summer,156.04,387.63,56.23,17.46,4.047,93.03,399.8,Hazardous
+Pakistan,Islamabad,Spring,68.18,162.71,66.22,42.16,3.196,83.23,234.5,Very Unhealthy
+Pakistan,Rawalpindi,Summer,107.48,265.26,,17.55,6.922,13.75,304.6,Hazardous
+Pakistan,Karachi,Autumn,42.53,,47.17,31.34,1.457,112.35,157.5,Unhealthy
+Pakistan,Karachi,Autumn,59.63,148.07,71.06,29.52,5.201,104.31,232.1,Very Unhealthy
+Pakistan,Rawalpindi,Spring,24.83,48.37,75.09,25.41,6.396,77.59,193.0,Unhealthy
+Pakistan,Rawalpindi,Spring,170.6,363.46,25.82,36.6,4.651,32.68,374.8,Hazardous
+Pakistan,Rawalpindi,Winter,103.62,235.29,128.54,52.91,2.101,61.98,319.3,Hazardous
+Pakistan,Karachi,Winter,44.77,77.57,54.0,7.51,5.734,87.78,214.5,Very Unhealthy
+Pakistan,Islamabad,Winter,59.59,140.37,106.45,5.8,5.019,106.31,261.9,Very Unhealthy
+Pakistan,Lahore,Spring,142.04,311.65,82.08,45.5,1.917,15.11,336.0,Hazardous
+Pakistan,Karachi,Spring,113.69,200.44,95.04,23.45,2.437,96.41,311.5,Hazardous
+Pakistan,Lahore,Winter,83.68,200.4,63.06,73.71,3.35,59.75,247.8,Very Unhealthy
+Pakistan,Rawalpindi,Winter,71.98,133.07,108.89,37.74,4.821,71.13,288.0,Very Unhealthy
+Pakistan,Karachi,Autumn,134.2,,43.13,23.31,0.995,154.93,343.5,Hazardous

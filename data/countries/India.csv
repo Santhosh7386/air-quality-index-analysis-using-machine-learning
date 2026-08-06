@@ -1,0 +1,97 @@
+Country,City,Season,PM2.5,PM10,NO2,SO2,CO,O3,AQI_Value,AQI_Category
+India,Chennai,Spring,123.71,192.07,125.82,42.94,1.172,146.02,373.4,Hazardous
+India,Mumbai,Autumn,242.39,581.67,122.9,23.65,6.922,148.21,450.0,Hazardous
+India,Chennai,Summer,1.7,3.3,16.32,6.74,1.3,114.44,62.1,Moderate
+India,Pune,Spring,71.34,168.81,,3.28,2.444,78.71,240.0,Very Unhealthy
+India,Mumbai,Autumn,145.29,283.88,66.33,37.82,10.432,113.29,450.0,Hazardous
+India,Mumbai,Autumn,231.65,551.18,80.08,54.53,9.201,80.66,450.0,Hazardous
+India,Pune,Spring,96.97,178.25,108.95,3.64,4.092,162.82,334.8,Hazardous
+India,Chennai,Autumn,103.5,257.0,,15.1,0.874,140.36,302.3,Hazardous
+India,Chennai,Autumn,46.61,71.08,148.79,28.04,6.992,136.35,296.9,Very Unhealthy
+India,Chennai,Winter,85.01,185.64,81.22,8.12,5.828,148.87,333.1,Hazardous
+India,Chennai,Summer,169.46,423.36,,33.09,4.419,179.93,450.0,Hazardous
+India,Kolkata,Spring,79.78,162.85,123.72,6.68,1.036,239.08,304.0,Hazardous
+India,Hyderabad,Winter,162.47,375.17,115.23,29.61,7.616,107.91,450.0,Hazardous
+India,Delhi,Winter,141.94,322.86,67.47,46.67,7.399,94.98,424.6,Hazardous
+India,Pune,Autumn,71.09,122.11,97.07,56.71,7.442,80.6,309.7,Hazardous
+India,Hyderabad,Spring,58.17,88.1,47.18,60.66,7.033,17.24,213.0,Very Unhealthy
+India,Hyderabad,Summer,192.7,449.59,92.23,9.71,8.257,64.45,450.0,Hazardous
+India,Mumbai,Winter,1.96,4.8,110.83,30.79,9.165,133.45,226.5,Very Unhealthy
+India,Delhi,Summer,52.11,106.61,54.6,15.14,2.694,104.9,202.5,Very Unhealthy
+India,Ahmedabad,Winter,102.79,202.92,110.63,6.75,3.365,151.34,336.4,Hazardous
+India,Kolkata,Summer,105.48,256.89,53.93,14.47,6.338,85.33,318.3,Hazardous
+India,Ahmedabad,Autumn,114.06,190.93,107.63,60.24,7.174,52.33,377.2,Hazardous
+India,Hyderabad,Spring,191.77,435.33,79.78,4.77,3.839,103.13,450.0,Hazardous
+India,Hyderabad,Summer,195.39,311.16,126.33,58.0,7.343,114.74,450.0,Hazardous
+India,Ahmedabad,Summer,57.41,127.88,168.85,25.4,7.727,116.84,308.2,Hazardous
+India,Delhi,Summer,168.65,385.62,88.01,58.06,6.721,162.43,450.0,Hazardous
+India,Delhi,Autumn,0.63,0.99,59.15,56.49,8.446,143.66,189.9,Unhealthy
+India,Hyderabad,Summer,31.28,77.7,125.84,45.04,0.034,113.51,174.3,Unhealthy
+India,Mumbai,Summer,149.04,330.12,80.55,3.44,6.039,48.8,408.5,Hazardous
+India,Hyderabad,Spring,239.18,432.06,35.96,53.0,2.326,118.86,450.0,Hazardous
+India,Delhi,Autumn,258.75,627.49,11.38,5.17,3.738,213.11,450.0,Hazardous
+India,Ahmedabad,Spring,201.46,503.24,120.45,93.7,3.621,79.04,450.0,Hazardous
+India,Ahmedabad,Spring,178.92,282.81,80.86,22.02,4.394,171.59,450.0,Hazardous
+India,Chennai,Winter,106.26,195.69,,7.82,3.632,19.43,269.8,Very Unhealthy
+India,Hyderabad,Autumn,126.47,293.18,84.42,6.13,11.847,198.47,450.0,Hazardous
+India,Ahmedabad,Autumn,224.23,364.5,75.63,47.68,1.967,168.45,450.0,Hazardous
+India,Pune,Autumn,89.74,194.66,84.4,43.82,5.642,163.17,336.5,Hazardous
+India,Ahmedabad,Summer,136.18,,92.59,22.87,3.254,117.01,365.4,Hazardous
+India,Pune,Autumn,241.03,,105.53,,1.195,117.17,450.0,Hazardous
+India,Mumbai,Spring,115.9,187.4,95.54,38.61,0.176,150.71,323.5,Hazardous
+India,Pune,Spring,112.87,279.73,80.05,64.49,9.145,131.16,405.6,Hazardous
+India,Chennai,Summer,19.36,42.39,101.23,5.85,4.539,105.56,167.8,Unhealthy
+India,Pune,Autumn,31.06,48.97,36.07,44.66,3.626,107.1,145.0,Unhealthy for Sensitive Groups
+India,Delhi,Spring,56.66,96.37,84.43,44.2,3.826,142.09,262.2,Very Unhealthy
+India,Mumbai,Summer,101.61,200.3,,59.75,4.0,132.54,381.5,Hazardous
+India,Hyderabad,Autumn,14.71,23.68,58.08,22.14,4.083,197.16,188.5,Unhealthy
+India,Ahmedabad,Autumn,87.56,143.7,12.03,8.16,0.379,150.27,261.1,Very Unhealthy
+India,Ahmedabad,Summer,185.95,332.32,107.2,8.79,7.234,229.7,450.0,Hazardous
+India,Ahmedabad,Spring,156.14,303.61,76.13,44.51,9.2,148.79,450.0,Hazardous
+India,Delhi,Winter,250.75,598.95,128.4,,4.897,152.3,450.0,Hazardous
+India,Chennai,Winter,156.95,355.08,80.16,29.46,0.274,203.92,414.4,Hazardous
+India,Delhi,Autumn,67.59,129.38,73.84,43.35,6.972,17.16,229.4,Very Unhealthy
+India,Mumbai,Spring,149.69,329.01,103.6,33.75,8.66,94.12,450.0,Hazardous
+India,Hyderabad,Spring,39.39,98.46,117.96,48.46,1.589,126.16,211.6,Very Unhealthy
+India,Chennai,Spring,212.36,506.67,43.79,40.14,6.429,125.95,450.0,Hazardous
+India,Pune,Summer,71.14,168.89,117.71,55.92,7.866,107.96,329.0,Hazardous
+India,Pune,Spring,39.78,68.83,118.98,27.73,2.312,108.65,217.5,Very Unhealthy
+India,Pune,Autumn,12.76,31.25,109.29,33.6,2.636,83.9,136.3,Unhealthy for Sensitive Groups
+India,Kolkata,Winter,59.1,,54.93,10.86,7.996,194.34,285.3,Very Unhealthy
+India,Mumbai,Summer,127.81,244.29,130.07,25.73,2.457,146.05,385.9,Hazardous
+India,Chennai,Autumn,70.82,141.62,55.14,69.77,4.673,87.92,257.2,Very Unhealthy
+India,Pune,Winter,,97.53,120.83,57.05,8.638,178.35,327.6,Hazardous
+India,Chennai,Winter,181.13,302.39,95.52,32.29,3.909,171.5,450.0,Hazardous
+India,Hyderabad,Autumn,84.91,171.53,126.18,58.15,4.256,87.27,324.1,Hazardous
+India,Chennai,Autumn,35.62,86.55,162.71,16.21,3.262,50.88,181.7,Unhealthy
+India,Hyderabad,Winter,107.31,226.15,56.56,2.64,4.551,40.57,278.9,Very Unhealthy
+India,Delhi,Summer,30.27,60.0,127.43,80.81,4.175,106.6,237.3,Very Unhealthy
+India,Kolkata,Autumn,168.87,354.32,97.85,34.93,6.704,72.59,450.0,Hazardous
+India,Delhi,Spring,62.96,154.75,150.04,46.66,5.51,119.46,304.6,Hazardous
+India,Kolkata,Autumn,70.06,165.0,45.03,26.9,8.084,89.93,266.3,Very Unhealthy
+India,Mumbai,Autumn,21.18,38.25,,27.79,6.771,182.18,219.9,Very Unhealthy
+India,Delhi,Spring,171.42,,,23.93,8.551,140.22,450.0,Hazardous
+India,Chennai,Autumn,75.02,169.17,156.64,60.22,7.587,31.5,328.0,Hazardous
+India,Pune,Autumn,143.84,312.46,44.97,42.23,8.756,88.85,430.6,Hazardous
+India,Hyderabad,Spring,99.46,149.66,91.38,22.88,3.105,133.82,300.0,Very Unhealthy
+India,Ahmedabad,Winter,159.09,250.67,124.84,48.5,6.018,117.57,450.0,Hazardous
+India,Hyderabad,Winter,49.82,75.51,218.04,,3.156,132.74,297.5,Very Unhealthy
+India,Hyderabad,Spring,112.85,171.66,125.89,14.72,0.158,130.96,325.1,Hazardous
+India,Chennai,Autumn,3.65,6.95,157.51,57.13,6.014,138.36,209.8,Very Unhealthy
+India,Chennai,Winter,81.68,188.31,61.5,9.76,3.592,58.06,260.1,Very Unhealthy
+India,Pune,Summer,104.32,232.0,95.9,39.03,4.822,61.24,314.5,Hazardous
+India,Mumbai,Winter,24.23,40.19,55.37,56.21,5.949,144.93,197.2,Unhealthy
+India,Pune,Autumn,5.06,10.55,7.96,52.97,5.217,145.36,124.9,Unhealthy for Sensitive Groups
+India,Chennai,Winter,150.21,273.15,1.34,68.06,8.634,114.67,420.6,Hazardous
+India,Ahmedabad,Autumn,72.87,132.97,19.89,63.63,4.213,163.09,256.2,Very Unhealthy
+India,Chennai,Autumn,156.62,354.0,61.17,51.56,5.506,136.57,441.2,Hazardous
+India,Chennai,Spring,,,115.83,54.32,5.409,131.36,353.9,Hazardous
+India,Kolkata,Winter,50.44,92.1,30.96,32.93,5.763,110.52,210.5,Very Unhealthy
+India,Chennai,Autumn,60.53,98.43,118.04,20.84,8.738,90.43,320.0,Hazardous
+India,Chennai,Spring,152.82,327.46,67.99,25.8,3.566,177.06,423.7,Hazardous
+India,Chennai,Autumn,12.75,27.66,93.06,64.26,7.976,89.98,208.2,Very Unhealthy
+India,Pune,Spring,13.81,28.36,102.33,28.89,4.8,109.17,189.0,Unhealthy
+India,Mumbai,Spring,86.29,144.62,90.07,71.96,3.378,188.31,338.0,Hazardous
+India,Delhi,Summer,81.88,135.44,152.43,66.91,4.403,115.23,323.1,Hazardous
+India,Mumbai,Winter,200.64,372.36,64.3,58.08,0.574,58.2,450.0,Hazardous
+India,Mumbai,Winter,83.85,130.4,123.17,20.69,3.245,87.12,284.7,Very Unhealthy

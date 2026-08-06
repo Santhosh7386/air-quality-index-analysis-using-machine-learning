@@ -1,0 +1,111 @@
+Country,City,Season,PM2.5,PM10,NO2,SO2,CO,O3,AQI_Value,AQI_Category
+South Africa,Durban,Winter,54.93,113.65,22.1,22.74,2.072,39.73,171.1,Unhealthy
+South Africa,Cape Town,Spring,53.84,96.71,40.62,31.11,3.292,51.35,169.4,Unhealthy
+South Africa,Durban,Summer,40.84,92.5,,30.56,2.436,21.51,131.9,Unhealthy for Sensitive Groups
+South Africa,Cape Town,Summer,50.19,108.11,35.62,11.98,2.654,65.99,172.9,Unhealthy
+South Africa,Durban,Autumn,25.17,46.5,21.07,32.34,2.982,53.75,128.0,Unhealthy for Sensitive Groups
+South Africa,Cape Town,Spring,,,57.43,18.19,2.166,71.76,247.5,Very Unhealthy
+South Africa,Durban,Autumn,26.93,56.24,38.49,6.91,1.389,68.18,115.0,Unhealthy for Sensitive Groups
+South Africa,Johannesburg,Summer,49.93,94.92,34.38,13.14,2.749,61.15,164.3,Unhealthy
+South Africa,Cape Town,Autumn,33.85,54.48,27.59,10.16,2.574,56.49,126.7,Unhealthy for Sensitive Groups
+South Africa,Johannesburg,Winter,44.73,99.1,14.04,25.2,1.141,45.77,137.2,Unhealthy for Sensitive Groups
+South Africa,Cape Town,Winter,43.02,97.95,52.28,8.78,1.859,32.14,134.1,Unhealthy for Sensitive Groups
+South Africa,Durban,Winter,33.39,62.3,22.1,10.05,0.56,45.04,108.1,Unhealthy for Sensitive Groups
+South Africa,Johannesburg,Summer,49.23,76.54,57.29,17.57,1.37,47.04,158.7,Unhealthy
+South Africa,Johannesburg,Winter,28.29,67.0,19.78,29.52,0.795,39.5,88.1,Moderate
+South Africa,Johannesburg,Autumn,22.78,40.1,49.09,18.32,0.631,32.28,88.6,Moderate
+South Africa,Johannesburg,Winter,74.87,148.47,84.3,0.55,0.412,64.11,202.0,Very Unhealthy
+South Africa,Johannesburg,Spring,91.86,183.72,53.29,25.96,1.057,26.28,216.0,Very Unhealthy
+South Africa,Johannesburg,Spring,79.23,186.89,55.56,20.26,2.691,52.15,227.5,Very Unhealthy
+South Africa,Durban,Spring,38.24,67.96,60.61,6.81,2.29,27.52,127.0,Unhealthy for Sensitive Groups
+South Africa,Johannesburg,Autumn,34.26,66.3,57.17,20.49,1.943,44.75,130.7,Unhealthy for Sensitive Groups
+South Africa,Cape Town,Summer,44.49,,33.49,,1.587,21.04,116.3,Unhealthy for Sensitive Groups
+South Africa,Johannesburg,Winter,,196.97,71.25,5.77,2.909,65.05,233.0,Very Unhealthy
+South Africa,Cape Town,Autumn,47.75,74.29,,17.6,2.291,58.43,151.6,Unhealthy
+South Africa,Cape Town,Autumn,57.83,137.0,26.72,20.63,0.3,44.2,133.4,Unhealthy for Sensitive Groups
+South Africa,Durban,Autumn,41.56,81.4,12.45,4.14,1.015,60.15,128.0,Unhealthy for Sensitive Groups
+South Africa,Johannesburg,Autumn,40.51,73.02,33.46,,0.071,75.61,132.1,Unhealthy for Sensitive Groups
+South Africa,Johannesburg,Winter,81.28,131.81,32.78,,1.655,13.98,205.9,Very Unhealthy
+South Africa,Johannesburg,Autumn,,124.88,48.13,7.05,1.206,53.89,207.0,Very Unhealthy
+South Africa,Johannesburg,Autumn,39.58,70.19,22.11,24.53,2.758,23.84,138.4,Unhealthy for Sensitive Groups
+South Africa,Durban,Summer,48.0,92.05,68.65,19.43,3.051,61.78,171.3,Unhealthy
+South Africa,Durban,Autumn,62.75,130.6,15.77,12.43,2.41,45.91,153.8,Unhealthy
+South Africa,Johannesburg,Summer,78.45,123.87,46.14,13.3,0.661,38.01,187.6,Unhealthy
+South Africa,Cape Town,Winter,43.92,74.3,49.25,4.39,2.301,39.11,149.5,Unhealthy for Sensitive Groups
+South Africa,Johannesburg,Spring,90.57,208.02,36.23,19.89,2.551,45.34,225.3,Very Unhealthy
+South Africa,Cape Town,Summer,31.61,66.0,30.43,19.7,0.302,29.26,97.4,Moderate
+South Africa,Cape Town,Spring,6.54,11.01,61.15,15.55,0.778,68.34,92.6,Moderate
+South Africa,Johannesburg,Summer,30.07,46.14,26.4,,1.264,68.78,102.7,Unhealthy for Sensitive Groups
+South Africa,Cape Town,Spring,82.08,174.06,36.84,4.64,1.633,40.38,195.0,Unhealthy
+South Africa,Johannesburg,Autumn,38.86,65.08,47.74,6.13,3.073,72.56,144.2,Unhealthy for Sensitive Groups
+South Africa,Cape Town,Winter,20.1,43.68,26.45,28.9,0.776,1.01,70.5,Moderate
+South Africa,Durban,Summer,46.52,77.85,17.04,16.46,1.013,44.89,123.4,Unhealthy for Sensitive Groups
+South Africa,Durban,Winter,81.86,139.4,16.56,6.19,3.026,44.67,205.7,Very Unhealthy
+South Africa,Durban,Autumn,46.19,,27.13,15.36,2.479,33.29,140.1,Unhealthy for Sensitive Groups
+South Africa,Cape Town,Autumn,34.25,56.85,34.87,10.32,3.506,30.01,133.8,Unhealthy for Sensitive Groups
+South Africa,Johannesburg,Autumn,30.28,48.47,36.03,7.45,2.159,47.6,106.5,Unhealthy for Sensitive Groups
+South Africa,Durban,Summer,58.73,142.16,70.01,,2.473,39.41,182.6,Unhealthy
+South Africa,Johannesburg,Winter,58.76,103.57,45.86,4.88,3.303,74.48,198.6,Unhealthy
+South Africa,Johannesburg,Spring,3.36,7.66,34.36,14.24,1.5,41.96,69.3,Moderate
+South Africa,Johannesburg,Autumn,74.3,,49.78,33.73,1.9,44.02,203.0,Very Unhealthy
+South Africa,Durban,Autumn,26.72,41.34,23.63,6.33,2.754,37.71,106.0,Unhealthy for Sensitive Groups
+South Africa,Cape Town,Spring,18.1,30.2,19.04,31.35,2.444,35.26,94.6,Moderate
+South Africa,Johannesburg,Spring,24.26,59.22,35.54,21.37,0.357,39.33,100.0,Moderate
+South Africa,Durban,Autumn,52.84,114.71,4.47,4.54,0.471,55.28,132.3,Unhealthy for Sensitive Groups
+South Africa,Cape Town,Autumn,37.28,58.25,54.29,16.34,2.458,66.7,146.8,Unhealthy for Sensitive Groups
+South Africa,Cape Town,Autumn,64.78,122.04,48.16,9.99,1.796,44.41,180.7,Unhealthy
+South Africa,Johannesburg,Autumn,21.97,39.86,26.31,12.87,1.552,40.04,89.6,Moderate
+South Africa,Cape Town,Winter,62.2,112.91,50.72,29.33,2.123,38.32,176.5,Unhealthy
+South Africa,Johannesburg,Spring,36.15,78.51,13.03,20.58,2.394,67.11,140.3,Unhealthy for Sensitive Groups
+South Africa,Durban,Winter,35.49,79.03,60.09,22.24,0.89,21.97,122.0,Unhealthy for Sensitive Groups
+South Africa,Durban,Summer,58.55,98.91,35.63,3.4,1.605,51.43,179.9,Unhealthy
+South Africa,Johannesburg,Winter,62.97,140.72,11.79,9.4,0.194,49.89,139.6,Unhealthy for Sensitive Groups
+South Africa,Durban,Spring,46.85,101.06,43.22,10.05,1.022,44.79,135.4,Unhealthy for Sensitive Groups
+South Africa,Cape Town,Spring,35.82,84.25,3.43,17.7,0.777,27.26,79.3,Moderate
+South Africa,Durban,Autumn,37.69,62.01,,13.52,1.035,62.0,130.9,Unhealthy for Sensitive Groups
+South Africa,Cape Town,Winter,27.99,48.16,,27.16,1.132,32.75,74.4,Moderate
+South Africa,Cape Town,Winter,48.91,87.31,26.88,16.82,0.049,65.53,137.3,Unhealthy for Sensitive Groups
+South Africa,Durban,Spring,,13.89,40.46,25.77,2.469,49.27,93.7,Moderate
+South Africa,Cape Town,Winter,72.75,136.5,18.91,18.03,0.703,43.32,160.8,Unhealthy
+South Africa,Cape Town,Winter,36.44,61.99,31.53,16.9,0.686,41.35,102.3,Unhealthy for Sensitive Groups
+South Africa,Johannesburg,Spring,17.92,,53.37,17.41,2.078,49.47,106.7,Unhealthy for Sensitive Groups
+South Africa,Johannesburg,Summer,64.07,147.56,26.33,17.06,2.772,52.64,164.7,Unhealthy
+South Africa,Cape Town,Winter,45.67,73.07,45.83,,3.037,53.76,154.7,Unhealthy
+South Africa,Durban,Spring,46.27,104.0,55.81,2.33,1.125,26.58,122.6,Unhealthy for Sensitive Groups
+South Africa,Johannesburg,Autumn,40.99,73.36,8.07,12.85,0.725,21.92,83.7,Moderate
+South Africa,Durban,Summer,29.74,51.34,14.54,3.94,1.675,40.32,93.6,Moderate
+South Africa,Johannesburg,Winter,21.11,47.14,24.34,2.06,0.827,52.75,66.0,Moderate
+South Africa,Durban,Summer,19.31,47.06,18.94,17.14,2.664,68.45,105.6,Unhealthy for Sensitive Groups
+South Africa,Durban,Spring,19.83,46.3,27.74,17.66,2.004,44.46,100.9,Unhealthy for Sensitive Groups
+South Africa,Johannesburg,Autumn,36.22,82.96,24.13,0.37,2.565,23.72,108.1,Unhealthy for Sensitive Groups
+South Africa,Durban,Winter,,176.7,29.95,23.33,1.576,34.59,181.5,Unhealthy
+South Africa,Cape Town,Summer,102.11,223.63,37.32,4.8,1.124,15.59,220.3,Very Unhealthy
+South Africa,Cape Town,Winter,10.48,23.15,40.01,6.39,0.392,26.13,43.9,Good
+South Africa,Cape Town,Winter,27.06,61.82,53.58,,2.737,90.18,127.8,Unhealthy for Sensitive Groups
+South Africa,Durban,Summer,6.46,11.25,,18.01,1.635,40.66,67.6,Moderate
+South Africa,Johannesburg,Summer,69.43,137.6,22.92,10.16,2.89,32.24,189.9,Unhealthy
+South Africa,Durban,Autumn,13.66,24.86,44.46,16.58,1.574,68.02,90.6,Moderate
+South Africa,Cape Town,Spring,28.99,46.76,35.81,8.86,2.636,39.99,110.0,Unhealthy for Sensitive Groups
+South Africa,Johannesburg,Summer,66.28,150.75,3.76,11.95,2.547,54.57,167.4,Unhealthy
+South Africa,Johannesburg,Autumn,3.93,9.41,37.02,13.11,2.162,73.87,97.3,Moderate
+South Africa,Johannesburg,Spring,60.32,104.91,57.02,18.13,1.547,41.4,160.8,Unhealthy
+South Africa,Durban,Autumn,66.21,103.96,59.99,13.41,1.408,30.7,192.4,Unhealthy
+South Africa,Johannesburg,Spring,,66.59,18.12,20.39,0.793,87.77,102.0,Unhealthy for Sensitive Groups
+South Africa,Durban,Summer,38.87,95.7,54.49,5.13,1.522,34.41,137.2,Unhealthy for Sensitive Groups
+South Africa,Durban,Autumn,37.98,75.41,35.41,2.78,1.527,51.69,120.4,Unhealthy for Sensitive Groups
+South Africa,Johannesburg,Autumn,35.76,80.73,26.73,15.38,1.474,44.59,109.9,Unhealthy for Sensitive Groups
+South Africa,Johannesburg,Autumn,80.0,180.61,33.46,30.96,1.482,61.2,210.4,Very Unhealthy
+South Africa,Durban,Autumn,1.83,,31.47,35.79,0.051,46.51,44.8,Good
+South Africa,Johannesburg,Spring,56.71,105.93,60.34,17.32,3.104,43.75,179.5,Unhealthy
+South Africa,Durban,Winter,40.0,90.16,18.99,15.02,4.117,86.3,154.9,Unhealthy
+South Africa,Cape Town,Summer,52.49,111.73,,,2.885,37.04,131.5,Unhealthy for Sensitive Groups
+South Africa,Durban,Summer,29.43,63.56,35.71,10.5,1.854,63.43,104.7,Unhealthy for Sensitive Groups
+South Africa,Cape Town,Summer,55.33,,56.81,21.17,3.043,30.78,190.6,Unhealthy
+South Africa,Cape Town,Winter,38.29,57.64,39.11,11.81,0.342,3.0,85.5,Moderate
+South Africa,Cape Town,Spring,57.0,120.1,55.47,12.43,2.319,22.58,170.8,Unhealthy
+South Africa,Cape Town,Spring,42.24,72.14,,3.13,1.622,31.91,93.7,Moderate
+South Africa,Cape Town,Winter,81.38,175.35,,12.2,1.968,70.15,220.8,Very Unhealthy
+South Africa,Durban,Winter,52.44,91.83,45.59,15.09,1.911,40.48,147.3,Unhealthy for Sensitive Groups
+South Africa,Durban,Autumn,56.21,85.35,19.48,1.24,2.329,47.71,161.9,Unhealthy
+South Africa,Durban,Winter,,86.67,10.23,16.22,2.446,42.24,138.6,Unhealthy for Sensitive Groups
+South Africa,Durban,Winter,23.57,47.08,39.74,12.32,2.743,23.3,110.1,Unhealthy for Sensitive Groups

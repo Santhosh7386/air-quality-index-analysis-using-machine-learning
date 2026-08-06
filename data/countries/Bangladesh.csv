@@ -1,0 +1,94 @@
+Country,City,Season,PM2.5,PM10,NO2,SO2,CO,O3,AQI_Value,AQI_Category
+Bangladesh,Dhaka,Spring,0.09,,86.6,58.84,6.716,120.92,174.5,Unhealthy
+Bangladesh,Chittagong,Autumn,218.72,358.06,78.87,33.46,3.597,60.25,450.0,Hazardous
+Bangladesh,Dhaka,Autumn,198.59,422.68,61.66,32.16,2.294,138.27,450.0,Hazardous
+Bangladesh,Chittagong,Summer,151.42,265.26,58.68,28.82,5.225,63.57,376.6,Hazardous
+Bangladesh,Dhaka,Summer,88.44,213.2,,10.34,4.821,101.5,292.6,Very Unhealthy
+Bangladesh,Dhaka,Autumn,,326.7,34.16,30.99,5.614,90.67,376.2,Hazardous
+Bangladesh,Rajshahi,Autumn,81.22,172.32,131.92,39.91,4.544,105.02,317.6,Hazardous
+Bangladesh,Chittagong,Autumn,112.86,,36.33,22.42,6.484,99.04,328.3,Hazardous
+Bangladesh,Chittagong,Summer,85.42,207.78,91.35,40.24,3.419,86.38,275.4,Very Unhealthy
+Bangladesh,Chittagong,Spring,99.7,157.02,136.86,33.86,4.082,146.76,360.6,Hazardous
+Bangladesh,Chittagong,Winter,164.7,370.5,130.82,42.49,4.457,112.36,450.0,Hazardous
+Bangladesh,Dhaka,Summer,117.56,212.3,35.93,18.35,3.193,44.12,282.1,Very Unhealthy
+Bangladesh,Chittagong,Winter,162.97,325.48,125.9,11.53,10.266,161.76,450.0,Hazardous
+Bangladesh,Rajshahi,Spring,54.62,132.24,149.3,11.75,0.88,116.83,206.8,Very Unhealthy
+Bangladesh,Dhaka,Winter,36.95,89.12,92.28,76.8,2.854,89.15,203.3,Very Unhealthy
+Bangladesh,Rajshahi,Summer,123.13,205.0,25.13,49.63,3.232,52.85,301.1,Hazardous
+Bangladesh,Chittagong,Winter,134.95,259.75,98.42,,0.945,109.08,343.3,Hazardous
+Bangladesh,Dhaka,Summer,133.7,319.16,82.71,43.65,5.311,118.0,381.7,Hazardous
+Bangladesh,Chittagong,Spring,113.39,195.44,,22.84,3.888,85.84,300.7,Hazardous
+Bangladesh,Dhaka,Autumn,46.06,,70.47,1.63,3.395,125.91,212.7,Very Unhealthy
+Bangladesh,Rajshahi,Spring,125.38,,88.95,16.76,3.45,166.65,395.2,Hazardous
+Bangladesh,Chittagong,Autumn,67.1,159.83,92.84,42.44,1.725,76.7,242.1,Very Unhealthy
+Bangladesh,Rajshahi,Autumn,54.05,108.23,,81.16,6.597,157.18,288.5,Very Unhealthy
+Bangladesh,Rajshahi,Spring,36.23,88.88,105.24,29.22,4.215,138.26,227.4,Very Unhealthy
+Bangladesh,Chittagong,Autumn,132.37,,90.84,72.29,4.069,90.27,370.2,Hazardous
+Bangladesh,Dhaka,Summer,113.93,212.07,66.68,51.18,2.593,87.63,309.8,Hazardous
+Bangladesh,Rajshahi,Spring,52.52,,150.88,28.61,1.764,104.64,236.9,Very Unhealthy
+Bangladesh,Chittagong,Autumn,49.46,87.95,62.32,27.2,4.179,74.17,202.8,Very Unhealthy
+Bangladesh,Dhaka,Spring,86.98,146.51,97.87,37.86,0.219,104.26,273.3,Very Unhealthy
+Bangladesh,Dhaka,Winter,58.63,103.63,106.56,4.64,7.138,115.35,272.2,Very Unhealthy
+Bangladesh,Chittagong,Spring,133.66,271.07,135.95,6.22,0.174,159.3,363.0,Hazardous
+Bangladesh,Rajshahi,Autumn,42.18,68.13,92.13,2.1,1.23,81.13,173.3,Unhealthy
+Bangladesh,Rajshahi,Autumn,113.31,253.85,60.89,47.91,5.711,98.39,347.3,Hazardous
+Bangladesh,Chittagong,Autumn,49.34,96.22,41.02,79.06,2.637,36.28,182.1,Unhealthy
+Bangladesh,Dhaka,Winter,82.45,170.39,157.53,21.03,5.087,163.01,352.0,Hazardous
+Bangladesh,Chittagong,Autumn,109.25,191.94,6.11,10.54,5.986,67.86,281.1,Very Unhealthy
+Bangladesh,Dhaka,Autumn,109.77,234.76,115.74,,1.407,53.2,310.6,Hazardous
+Bangladesh,Rajshahi,Autumn,35.45,84.68,115.86,12.66,4.815,152.46,235.5,Very Unhealthy
+Bangladesh,Dhaka,Summer,111.0,276.48,169.33,42.86,5.636,117.65,389.3,Hazardous
+Bangladesh,Rajshahi,Spring,80.98,158.88,128.65,,2.753,90.91,292.8,Very Unhealthy
+Bangladesh,Chittagong,Spring,42.18,95.96,31.03,2.3,2.792,108.82,152.2,Unhealthy
+Bangladesh,Chittagong,Autumn,112.89,170.47,96.4,39.38,6.126,106.13,340.4,Hazardous
+Bangladesh,Rajshahi,Spring,69.35,166.85,83.93,55.32,4.427,146.61,279.8,Very Unhealthy
+Bangladesh,Rajshahi,Autumn,96.85,206.5,65.23,44.92,5.55,74.75,307.4,Hazardous
+Bangladesh,Dhaka,Spring,119.35,297.41,97.09,29.7,1.814,53.26,295.5,Very Unhealthy
+Bangladesh,Dhaka,Autumn,120.32,270.5,28.92,17.11,2.903,70.43,305.2,Hazardous
+Bangladesh,Chittagong,Spring,160.86,274.3,115.73,23.98,6.988,149.08,450.0,Hazardous
+Bangladesh,Rajshahi,Summer,136.81,,109.8,47.61,1.721,87.2,368.8,Hazardous
+Bangladesh,Dhaka,Summer,53.79,118.66,73.42,4.57,4.025,176.26,241.5,Very Unhealthy
+Bangladesh,Rajshahi,Autumn,93.21,181.16,52.48,55.78,6.141,78.49,298.6,Very Unhealthy
+Bangladesh,Dhaka,Summer,26.62,43.0,119.99,10.03,1.288,90.9,160.8,Unhealthy
+Bangladesh,Rajshahi,Autumn,179.91,328.54,85.77,50.95,4.178,40.27,442.0,Hazardous
+Bangladesh,Chittagong,Summer,75.17,178.01,43.31,9.79,3.312,121.28,237.6,Very Unhealthy
+Bangladesh,Chittagong,Summer,131.73,229.3,118.91,62.71,5.195,82.6,394.4,Hazardous
+Bangladesh,Rajshahi,Autumn,168.7,300.82,118.56,39.44,4.694,96.4,450.0,Hazardous
+Bangladesh,Dhaka,Summer,109.43,208.29,102.53,51.38,4.061,91.46,356.0,Hazardous
+Bangladesh,Dhaka,Summer,40.03,92.82,71.58,32.03,3.45,65.91,178.2,Unhealthy
+Bangladesh,Chittagong,Autumn,39.9,86.03,81.24,27.76,9.885,63.13,239.5,Very Unhealthy
+Bangladesh,Dhaka,Summer,41.41,84.88,62.87,69.33,2.568,78.6,174.1,Unhealthy
+Bangladesh,Dhaka,Summer,123.04,191.94,76.55,2.32,4.1,127.71,351.0,Hazardous
+Bangladesh,Dhaka,Winter,58.57,120.63,86.32,36.52,3.564,129.59,249.0,Very Unhealthy
+Bangladesh,Dhaka,Winter,41.0,94.65,105.27,45.14,6.695,102.83,247.0,Very Unhealthy
+Bangladesh,Chittagong,Summer,34.23,53.83,7.51,42.5,8.039,105.38,188.4,Unhealthy
+Bangladesh,Dhaka,Autumn,53.45,110.71,24.91,22.34,0.254,7.92,128.1,Unhealthy for Sensitive Groups
+Bangladesh,Dhaka,Autumn,124.75,279.12,116.4,8.1,5.872,148.32,407.6,Hazardous
+Bangladesh,Rajshahi,Winter,161.02,259.91,120.22,5.31,2.388,60.09,384.3,Hazardous
+Bangladesh,Rajshahi,Winter,97.81,153.02,112.99,22.97,2.794,144.98,337.1,Hazardous
+Bangladesh,Dhaka,Spring,54.34,118.92,34.2,2.42,3.912,127.9,191.1,Unhealthy
+Bangladesh,Rajshahi,Spring,34.96,,78.55,,6.487,133.84,217.0,Very Unhealthy
+Bangladesh,Chittagong,Spring,73.75,142.48,90.27,20.64,1.705,135.79,265.0,Very Unhealthy
+Bangladesh,Chittagong,Spring,46.94,85.19,34.69,32.96,3.681,94.5,192.4,Unhealthy
+Bangladesh,Chittagong,Spring,36.57,70.49,26.62,50.65,1.744,116.69,137.5,Unhealthy for Sensitive Groups
+Bangladesh,Chittagong,Winter,154.64,233.47,13.69,19.21,3.059,139.87,377.3,Hazardous
+Bangladesh,Rajshahi,Spring,103.47,161.23,110.2,39.38,6.551,136.66,373.2,Hazardous
+Bangladesh,Chittagong,Winter,26.26,47.08,85.93,64.06,2.472,109.78,182.9,Unhealthy
+Bangladesh,Chittagong,Summer,123.78,294.29,22.31,51.42,1.327,125.73,293.8,Very Unhealthy
+Bangladesh,Chittagong,Spring,125.05,237.82,120.15,49.93,8.941,101.68,429.7,Hazardous
+Bangladesh,Dhaka,Summer,97.99,214.43,29.0,14.4,4.714,89.88,279.3,Very Unhealthy
+Bangladesh,Rajshahi,Autumn,93.06,183.12,,37.94,2.829,47.61,290.5,Very Unhealthy
+Bangladesh,Chittagong,Summer,130.01,277.42,88.49,5.81,5.097,104.97,379.1,Hazardous
+Bangladesh,Rajshahi,Autumn,33.2,50.9,56.28,33.06,6.34,111.2,209.7,Very Unhealthy
+Bangladesh,Rajshahi,Autumn,95.68,192.18,72.52,33.35,5.449,33.92,283.4,Very Unhealthy
+Bangladesh,Dhaka,Spring,102.2,198.11,54.08,13.98,6.398,73.35,302.4,Hazardous
+Bangladesh,Rajshahi,Summer,119.21,231.09,115.77,17.56,3.644,112.08,370.7,Hazardous
+Bangladesh,Dhaka,Winter,101.79,181.67,145.94,25.84,3.072,66.14,325.4,Hazardous
+Bangladesh,Dhaka,Winter,28.2,67.34,8.58,4.85,6.87,65.55,136.5,Unhealthy for Sensitive Groups
+Bangladesh,Dhaka,Spring,50.9,123.56,165.97,8.99,4.18,131.6,280.6,Very Unhealthy
+Bangladesh,Dhaka,Spring,58.26,120.95,77.16,53.92,8.064,157.79,302.5,Hazardous
+Bangladesh,Dhaka,Spring,67.41,113.81,,31.9,4.541,144.2,253.4,Very Unhealthy
+Bangladesh,Rajshahi,Autumn,52.84,131.71,100.1,29.26,6.64,66.68,242.8,Very Unhealthy
+Bangladesh,Dhaka,Winter,73.3,147.79,22.09,26.41,5.853,14.95,227.9,Very Unhealthy
+Bangladesh,Chittagong,Autumn,213.89,504.95,69.89,,1.014,147.54,450.0,Hazardous
+Bangladesh,Chittagong,Summer,145.03,362.03,36.99,23.73,5.566,116.9,383.0,Hazardous

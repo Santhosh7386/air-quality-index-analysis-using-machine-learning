@@ -1,0 +1,94 @@
+Country,City,Season,PM2.5,PM10,NO2,SO2,CO,O3,AQI_Value,AQI_Category
+Russia,Novosibirsk,Summer,47.64,96.78,52.0,23.44,1.58,15.85,122.4,Unhealthy for Sensitive Groups
+Russia,Saint Petersburg,Winter,,153.33,2.39,8.45,3.585,50.36,188.4,Unhealthy
+Russia,Saint Petersburg,Winter,39.95,82.06,,20.19,0.043,101.83,151.3,Unhealthy
+Russia,Moscow,Summer,38.74,83.94,42.47,26.98,2.321,42.27,129.6,Unhealthy for Sensitive Groups
+Russia,Novosibirsk,Winter,65.74,152.3,39.94,38.83,2.308,55.92,184.1,Unhealthy
+Russia,Novosibirsk,Autumn,58.24,145.31,3.07,15.58,3.296,85.08,196.1,Unhealthy
+Russia,Saint Petersburg,Autumn,16.7,39.05,48.23,18.27,2.143,41.35,96.5,Moderate
+Russia,Novosibirsk,Summer,90.97,199.18,4.75,,4.048,73.66,241.2,Very Unhealthy
+Russia,Saint Petersburg,Spring,90.38,150.51,50.24,3.6,3.731,25.7,227.2,Very Unhealthy
+Russia,Saint Petersburg,Autumn,66.35,159.64,69.65,30.66,2.437,38.42,216.7,Very Unhealthy
+Russia,Saint Petersburg,Autumn,24.73,45.4,66.07,31.64,3.043,13.56,119.0,Unhealthy for Sensitive Groups
+Russia,Saint Petersburg,Summer,22.66,40.23,,13.94,2.161,56.77,89.7,Moderate
+Russia,Saint Petersburg,Summer,46.22,79.39,14.5,17.98,3.279,64.38,135.2,Unhealthy for Sensitive Groups
+Russia,Saint Petersburg,Autumn,28.03,64.24,37.08,0.93,3.472,26.83,125.0,Unhealthy for Sensitive Groups
+Russia,Novosibirsk,Autumn,47.3,100.98,8.54,14.44,2.292,42.15,129.9,Unhealthy for Sensitive Groups
+Russia,Novosibirsk,Autumn,10.98,23.41,22.96,18.84,1.537,27.1,60.3,Moderate
+Russia,Moscow,Winter,47.1,105.45,75.75,3.25,2.687,58.05,174.6,Unhealthy
+Russia,Novosibirsk,Autumn,80.94,196.69,20.38,17.85,3.643,53.65,218.9,Very Unhealthy
+Russia,Moscow,Winter,35.38,54.07,25.27,26.38,2.576,60.92,120.2,Unhealthy for Sensitive Groups
+Russia,Saint Petersburg,Summer,36.56,90.69,52.41,14.68,2.417,75.42,160.2,Unhealthy
+Russia,Moscow,Summer,103.78,177.48,63.28,24.58,2.349,34.81,256.1,Very Unhealthy
+Russia,Moscow,Summer,79.54,145.04,48.18,11.93,1.457,71.32,220.3,Very Unhealthy
+Russia,Saint Petersburg,Summer,41.62,67.39,56.94,1.38,2.34,45.52,134.9,Unhealthy for Sensitive Groups
+Russia,Moscow,Winter,105.98,159.04,61.55,12.83,0.403,34.31,256.7,Very Unhealthy
+Russia,Saint Petersburg,Winter,68.41,143.98,57.8,,2.445,54.83,190.1,Unhealthy
+Russia,Saint Petersburg,Summer,42.13,97.67,77.76,14.72,2.191,80.9,183.4,Unhealthy
+Russia,Moscow,Winter,10.13,22.63,19.34,16.67,1.697,71.35,66.2,Moderate
+Russia,Saint Petersburg,Spring,75.36,150.22,7.0,2.25,2.381,37.19,181.7,Unhealthy
+Russia,Novosibirsk,Summer,,114.36,75.66,31.27,3.474,34.77,196.0,Unhealthy
+Russia,Saint Petersburg,Autumn,52.53,99.25,40.26,13.32,2.621,53.92,159.1,Unhealthy
+Russia,Saint Petersburg,Autumn,54.52,82.63,36.83,34.7,2.542,89.63,203.3,Very Unhealthy
+Russia,Saint Petersburg,Autumn,31.33,47.06,21.6,22.64,3.043,105.13,150.9,Unhealthy
+Russia,Novosibirsk,Spring,69.64,160.83,22.7,16.51,0.092,37.3,161.4,Unhealthy
+Russia,Moscow,Spring,36.73,90.8,14.69,24.3,2.117,18.11,102.0,Unhealthy for Sensitive Groups
+Russia,Novosibirsk,Spring,30.62,74.02,64.92,13.27,3.827,75.95,174.2,Unhealthy
+Russia,Saint Petersburg,Winter,41.14,83.1,9.23,9.76,3.399,43.84,127.1,Unhealthy for Sensitive Groups
+Russia,Saint Petersburg,Spring,74.97,177.54,23.59,0.06,0.643,99.98,190.5,Unhealthy
+Russia,Saint Petersburg,Autumn,90.94,219.7,3.99,17.11,1.146,54.3,197.5,Unhealthy
+Russia,Novosibirsk,Summer,48.0,114.81,25.01,11.84,2.154,42.35,129.0,Unhealthy for Sensitive Groups
+Russia,Saint Petersburg,Autumn,41.32,101.66,57.18,10.32,4.066,55.1,166.4,Unhealthy
+Russia,Saint Petersburg,Spring,58.0,94.97,14.89,37.26,3.24,34.61,168.0,Unhealthy
+Russia,Novosibirsk,Spring,55.34,86.47,65.1,14.78,2.48,58.6,187.2,Unhealthy
+Russia,Saint Petersburg,Winter,40.69,98.69,,5.79,1.765,55.52,128.0,Unhealthy for Sensitive Groups
+Russia,Saint Petersburg,Winter,62.52,114.8,25.61,7.36,2.392,52.62,161.4,Unhealthy
+Russia,Moscow,Spring,23.03,46.5,64.87,21.0,1.644,76.0,133.8,Unhealthy for Sensitive Groups
+Russia,Moscow,Winter,5.8,13.82,28.45,18.93,2.304,54.51,71.2,Moderate
+Russia,Saint Petersburg,Winter,,53.3,37.89,5.33,1.979,53.51,108.5,Unhealthy for Sensitive Groups
+Russia,Novosibirsk,Spring,31.59,60.74,,27.73,2.18,39.57,119.8,Unhealthy for Sensitive Groups
+Russia,Saint Petersburg,Spring,36.97,79.56,,33.94,3.35,51.97,141.4,Unhealthy for Sensitive Groups
+Russia,Moscow,Winter,5.92,,25.2,35.84,2.53,65.05,73.2,Moderate
+Russia,Moscow,Autumn,50.59,98.05,57.32,,2.992,30.92,152.8,Unhealthy
+Russia,Novosibirsk,Spring,88.11,205.36,64.24,31.37,1.812,63.81,257.1,Very Unhealthy
+Russia,Moscow,Summer,10.97,18.73,85.12,12.53,0.703,70.26,101.8,Unhealthy for Sensitive Groups
+Russia,Saint Petersburg,Autumn,19.36,,50.52,12.39,1.828,47.63,102.5,Unhealthy for Sensitive Groups
+Russia,Moscow,Winter,52.81,121.82,32.68,40.85,0.919,48.78,145.5,Unhealthy for Sensitive Groups
+Russia,Saint Petersburg,Spring,36.54,55.36,74.66,7.79,3.932,77.91,172.2,Unhealthy
+Russia,Saint Petersburg,Autumn,14.16,34.58,5.47,19.99,2.588,32.31,67.6,Moderate
+Russia,Saint Petersburg,Spring,62.56,114.67,63.42,10.74,4.933,45.56,212.6,Very Unhealthy
+Russia,Saint Petersburg,Spring,70.17,162.04,53.55,10.06,0.879,30.04,181.1,Unhealthy
+Russia,Moscow,Spring,63.13,148.55,18.42,19.45,0.648,25.24,159.8,Unhealthy
+Russia,Moscow,Spring,36.89,82.82,63.29,7.3,2.389,54.29,163.6,Unhealthy
+Russia,Saint Petersburg,Winter,50.68,81.46,95.02,17.38,2.353,85.89,215.2,Very Unhealthy
+Russia,Moscow,Summer,29.88,59.12,60.55,22.24,2.469,91.42,139.3,Unhealthy for Sensitive Groups
+Russia,Novosibirsk,Autumn,,110.98,30.3,15.76,1.464,38.68,122.0,Unhealthy for Sensitive Groups
+Russia,Saint Petersburg,Autumn,80.22,192.81,50.12,23.59,2.095,53.64,228.1,Very Unhealthy
+Russia,Novosibirsk,Winter,20.5,37.42,30.39,17.67,2.148,59.77,110.5,Unhealthy for Sensitive Groups
+Russia,Moscow,Winter,5.49,13.28,45.88,23.32,2.452,84.19,100.6,Unhealthy for Sensitive Groups
+Russia,Novosibirsk,Summer,52.09,119.56,85.19,11.88,1.867,48.08,192.6,Unhealthy
+Russia,Saint Petersburg,Summer,48.58,92.63,,22.3,0.926,26.08,139.6,Unhealthy for Sensitive Groups
+Russia,Saint Petersburg,Winter,59.85,108.39,59.93,15.12,3.341,63.33,198.2,Unhealthy
+Russia,Novosibirsk,Summer,18.89,38.8,76.55,19.68,1.848,17.9,87.5,Moderate
+Russia,Moscow,Summer,52.62,79.19,31.04,17.33,3.316,26.36,157.3,Unhealthy
+Russia,Saint Petersburg,Summer,30.46,55.02,47.45,1.5,5.001,81.82,148.4,Unhealthy for Sensitive Groups
+Russia,Saint Petersburg,Spring,56.61,126.48,47.89,13.26,2.424,38.64,165.6,Unhealthy
+Russia,Saint Petersburg,Spring,82.93,204.68,81.17,30.31,3.799,72.16,260.8,Very Unhealthy
+Russia,Novosibirsk,Summer,30.96,50.26,17.0,10.9,2.587,46.13,97.4,Moderate
+Russia,Moscow,Summer,67.57,145.88,53.31,21.19,3.04,64.74,208.2,Very Unhealthy
+Russia,Moscow,Autumn,11.36,22.49,71.03,7.0,0.806,52.7,73.1,Moderate
+Russia,Saint Petersburg,Autumn,97.49,161.01,68.17,1.77,1.851,37.48,243.1,Very Unhealthy
+Russia,Novosibirsk,Winter,71.15,154.29,68.46,,2.59,27.19,194.1,Unhealthy
+Russia,Novosibirsk,Summer,92.83,208.2,104.43,3.39,1.464,88.55,277.3,Very Unhealthy
+Russia,Moscow,Spring,50.75,108.91,38.01,23.44,1.665,36.68,147.5,Unhealthy for Sensitive Groups
+Russia,Novosibirsk,Autumn,51.52,77.97,43.37,17.49,0.57,70.9,172.2,Unhealthy
+Russia,Saint Petersburg,Spring,92.07,165.54,67.03,19.27,2.086,54.26,253.9,Very Unhealthy
+Russia,Saint Petersburg,Autumn,32.2,72.1,62.32,1.71,1.962,45.5,120.7,Unhealthy for Sensitive Groups
+Russia,Novosibirsk,Autumn,50.52,99.48,,20.93,4.398,65.78,192.9,Unhealthy
+Russia,Saint Petersburg,Autumn,76.22,158.92,52.72,3.18,3.857,55.09,220.1,Very Unhealthy
+Russia,Moscow,Autumn,,73.82,71.84,48.05,1.26,55.94,158.7,Unhealthy
+Russia,Novosibirsk,Autumn,39.55,81.24,47.89,19.67,0.177,57.06,114.1,Unhealthy for Sensitive Groups
+Russia,Novosibirsk,Spring,86.79,209.32,42.73,1.06,2.793,3.07,196.0,Unhealthy
+Russia,Novosibirsk,Summer,58.85,115.26,31.24,15.65,3.032,57.48,193.8,Unhealthy
+Russia,Novosibirsk,Winter,71.38,129.95,95.1,17.47,5.449,54.26,248.8,Very Unhealthy
+Russia,Saint Petersburg,Spring,68.84,162.04,15.52,,2.996,49.63,169.6,Unhealthy

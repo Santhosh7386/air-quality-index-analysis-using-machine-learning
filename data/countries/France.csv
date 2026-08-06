@@ -1,0 +1,118 @@
+Country,City,Season,PM2.5,PM10,NO2,SO2,CO,O3,AQI_Value,AQI_Category
+France,Paris,Autumn,10.83,17.38,13.19,15.87,1.298,13.79,64.9,Moderate
+France,Paris,Summer,12.49,24.28,22.6,6.04,1.467,33.7,61.7,Moderate
+France,Lyon,Summer,24.07,46.85,32.56,8.08,0.758,29.97,71.9,Moderate
+France,Lyon,Autumn,,37.79,25.58,3.14,2.361,25.87,64.0,Moderate
+France,Lyon,Summer,6.0,11.32,9.36,2.96,0.83,17.06,34.5,Good
+France,Marseille,Winter,21.53,49.28,5.34,8.91,0.644,29.67,66.3,Moderate
+France,Lyon,Spring,6.77,11.88,8.23,4.27,2.086,17.89,38.1,Good
+France,Paris,Summer,21.83,47.31,10.31,7.51,1.209,40.44,70.7,Moderate
+France,Lyon,Autumn,8.86,21.69,18.3,2.01,0.46,19.37,42.0,Good
+France,Marseille,Summer,12.83,23.65,19.88,1.01,0.934,14.6,50.4,Moderate
+France,Paris,Winter,18.49,40.18,12.61,11.14,1.4,20.33,59.5,Moderate
+France,Lyon,Summer,8.34,19.45,19.15,,1.4,14.4,59.9,Moderate
+France,Paris,Summer,21.39,,14.71,7.93,1.809,16.34,74.6,Moderate
+France,Paris,Spring,26.03,51.19,16.08,4.0,1.612,51.26,79.1,Moderate
+France,Paris,Autumn,33.77,67.18,7.37,3.31,1.185,19.52,98.0,Moderate
+France,Paris,Autumn,16.86,26.6,28.17,5.44,0.731,37.15,84.0,Moderate
+France,Lyon,Winter,13.94,25.78,2.9,6.76,1.733,38.78,64.8,Moderate
+France,Paris,Summer,39.55,82.25,13.9,12.98,0.825,23.98,95.1,Moderate
+France,Paris,Spring,38.23,59.7,7.64,7.46,1.079,23.0,96.9,Moderate
+France,Paris,Spring,26.96,57.79,11.79,1.32,0.011,22.95,57.6,Moderate
+France,Lyon,Autumn,18.17,28.21,15.85,7.27,1.106,31.86,57.2,Moderate
+France,Paris,Winter,29.42,49.48,12.16,6.0,1.906,22.51,74.9,Moderate
+France,Marseille,Autumn,22.89,43.08,3.47,8.7,0.451,15.26,59.0,Moderate
+France,Paris,Spring,30.07,75.06,18.44,12.45,0.938,18.41,82.2,Moderate
+France,Marseille,Summer,21.5,36.7,16.05,12.66,1.076,19.52,68.6,Moderate
+France,Lyon,Spring,,38.92,13.04,11.56,1.533,22.44,74.0,Moderate
+France,Lyon,Autumn,23.79,,33.83,9.43,1.582,17.67,107.7,Unhealthy for Sensitive Groups
+France,Paris,Spring,30.94,54.48,,9.62,1.227,37.07,81.3,Moderate
+France,Marseille,Winter,9.0,13.91,5.37,11.97,0.478,24.92,27.4,Good
+France,Paris,Winter,27.55,49.21,15.05,5.18,0.369,30.27,88.1,Moderate
+France,Marseille,Spring,22.93,,28.67,4.87,0.882,17.87,73.8,Moderate
+France,Paris,Summer,29.13,57.16,14.89,4.71,1.028,15.56,78.2,Moderate
+France,Marseille,Autumn,8.8,21.24,26.05,11.0,1.225,29.0,61.3,Moderate
+France,Paris,Autumn,24.17,53.87,17.8,11.45,1.223,16.37,85.6,Moderate
+France,Marseille,Winter,37.46,59.77,22.28,10.01,0.303,10.63,98.6,Moderate
+France,Marseille,Spring,37.49,71.36,29.34,8.1,1.504,33.59,123.8,Unhealthy for Sensitive Groups
+France,Lyon,Autumn,21.8,48.5,34.15,1.89,0.63,18.69,77.8,Moderate
+France,Marseille,Autumn,18.1,43.87,19.66,11.62,1.249,22.93,60.2,Moderate
+France,Marseille,Summer,,68.54,14.31,12.76,1.229,19.85,90.8,Moderate
+France,Paris,Autumn,26.04,44.24,1.81,16.1,1.237,24.73,87.3,Moderate
+France,Marseille,Summer,33.03,78.07,14.92,,1.023,20.66,90.9,Moderate
+France,Marseille,Autumn,25.08,51.04,27.04,10.36,1.085,27.0,74.3,Moderate
+France,Marseille,Winter,44.77,80.72,8.06,,0.691,13.65,94.6,Moderate
+France,Paris,Autumn,33.54,67.21,10.73,12.66,1.086,24.93,99.9,Moderate
+France,Lyon,Winter,4.19,7.72,20.5,6.73,0.401,21.68,27.8,Good
+France,Paris,Spring,3.7,5.83,18.18,5.66,1.063,26.22,38.0,Good
+France,Paris,Autumn,25.44,55.52,7.1,6.94,0.593,40.02,70.7,Moderate
+France,Paris,Summer,22.54,55.34,16.35,1.15,0.117,40.04,58.5,Moderate
+France,Lyon,Autumn,21.15,45.04,16.05,11.53,1.056,27.94,62.9,Moderate
+France,Marseille,Autumn,9.56,16.18,19.41,6.83,0.964,14.78,38.5,Good
+France,Paris,Autumn,,44.46,,3.14,0.662,21.59,68.1,Moderate
+France,Lyon,Spring,21.23,,18.32,7.65,0.372,33.93,69.5,Moderate
+France,Marseille,Autumn,25.86,50.26,1.46,10.08,0.118,19.39,62.5,Moderate
+France,Paris,Spring,23.01,51.31,16.14,2.05,1.055,17.14,60.1,Moderate
+France,Paris,Autumn,29.42,49.46,33.54,2.66,0.88,26.55,105.3,Unhealthy for Sensitive Groups
+France,Marseille,Spring,15.03,26.34,27.44,2.54,0.524,19.77,59.4,Moderate
+France,Marseille,Autumn,43.07,67.85,39.69,1.53,0.917,14.42,106.1,Unhealthy for Sensitive Groups
+France,Lyon,Summer,28.01,42.93,19.19,12.74,0.343,34.09,70.5,Moderate
+France,Marseille,Winter,40.9,100.06,2.8,16.47,1.1,36.92,116.7,Unhealthy for Sensitive Groups
+France,Lyon,Summer,26.58,50.21,10.53,11.5,1.634,28.63,66.9,Moderate
+France,Lyon,Spring,0.08,,17.7,8.09,0.496,17.39,10.5,Good
+France,Paris,Spring,12.61,25.97,12.01,7.63,1.509,21.49,66.0,Moderate
+France,Lyon,Winter,9.35,16.19,10.53,1.23,1.658,14.29,41.6,Good
+France,Paris,Summer,17.44,41.39,25.02,2.03,0.637,24.78,65.6,Moderate
+France,Lyon,Spring,4.73,8.71,5.42,4.28,0.739,16.93,13.9,Good
+France,Lyon,Winter,26.65,49.48,24.62,11.85,1.046,14.9,93.3,Moderate
+France,Paris,Winter,27.03,42.99,12.73,9.13,1.08,25.67,90.1,Moderate
+France,Paris,Winter,19.71,37.58,,,0.161,3.79,45.3,Good
+France,Marseille,Summer,3.23,7.39,20.37,7.85,1.883,12.83,31.7,Good
+France,Paris,Spring,11.28,26.86,26.03,1.19,0.449,23.34,49.9,Good
+France,Marseille,Spring,,2.65,14.7,9.01,0.719,18.55,33.6,Good
+France,Paris,Autumn,42.26,83.04,12.51,7.67,0.689,20.29,100.4,Unhealthy for Sensitive Groups
+France,Paris,Summer,4.1,8.29,,0.65,0.872,18.25,32.1,Good
+France,Paris,Autumn,10.16,18.42,19.01,11.47,0.881,26.5,45.1,Good
+France,Lyon,Autumn,11.82,21.14,13.85,,0.977,31.53,58.1,Moderate
+France,Paris,Spring,24.77,45.35,24.08,6.35,1.435,18.55,91.1,Moderate
+France,Lyon,Summer,25.17,50.55,5.43,9.45,0.787,23.0,78.8,Moderate
+France,Paris,Autumn,18.37,42.51,5.76,3.86,0.436,18.15,47.0,Good
+France,Marseille,Spring,2.34,3.69,24.4,5.33,0.879,34.93,41.6,Good
+France,Lyon,Winter,30.15,,12.58,8.86,1.809,25.59,81.1,Moderate
+France,Lyon,Summer,23.39,36.71,23.44,5.92,1.149,9.98,63.7,Moderate
+France,Marseille,Spring,16.01,37.64,8.41,9.36,1.403,14.8,61.1,Moderate
+France,Marseille,Winter,21.11,36.79,27.4,5.69,0.209,33.87,81.4,Moderate
+France,Marseille,Summer,30.62,57.78,,6.04,2.002,22.03,97.8,Moderate
+France,Lyon,Winter,26.41,63.45,22.94,6.29,1.499,32.53,93.4,Moderate
+France,Paris,Autumn,15.78,24.87,10.97,2.93,0.926,39.18,54.8,Moderate
+France,Lyon,Spring,14.04,29.72,19.03,12.75,0.799,11.5,53.2,Moderate
+France,Lyon,Autumn,28.52,55.73,16.93,19.34,0.817,27.95,81.2,Moderate
+France,Marseille,Autumn,35.86,80.9,16.39,8.32,1.755,22.54,104.4,Unhealthy for Sensitive Groups
+France,Lyon,Autumn,30.4,,,6.01,1.439,18.94,83.6,Moderate
+France,Marseille,Summer,0.31,0.55,38.51,12.09,1.02,26.1,40.5,Good
+France,Lyon,Autumn,22.86,52.23,12.91,14.29,1.107,15.73,67.7,Moderate
+France,Paris,Winter,36.97,85.79,7.12,16.52,1.167,28.96,106.1,Unhealthy for Sensitive Groups
+France,Marseille,Summer,34.98,72.91,28.64,6.62,0.754,26.49,91.1,Moderate
+France,Lyon,Spring,6.61,15.89,24.45,11.51,0.94,22.0,41.3,Good
+France,Lyon,Autumn,38.98,62.4,26.47,6.38,1.326,19.6,108.6,Unhealthy for Sensitive Groups
+France,Marseille,Summer,9.14,18.61,19.7,12.97,0.461,21.04,34.9,Good
+France,Paris,Summer,18.69,43.61,13.07,11.66,0.987,16.13,45.5,Good
+France,Paris,Autumn,41.45,100.52,8.87,2.2,0.831,25.15,81.2,Moderate
+France,Marseille,Autumn,10.64,20.71,7.64,5.27,0.903,34.75,49.7,Good
+France,Marseille,Summer,3.7,5.82,14.66,7.64,1.224,16.11,37.4,Good
+France,Paris,Summer,20.61,48.56,9.29,10.13,0.828,29.72,72.2,Moderate
+France,Paris,Winter,21.63,38.79,2.76,5.64,0.325,34.95,55.3,Moderate
+France,Marseille,Spring,15.6,29.68,5.94,9.4,1.283,15.82,53.0,Moderate
+France,Marseille,Summer,35.33,81.73,29.54,3.32,1.84,29.98,103.1,Unhealthy for Sensitive Groups
+France,Marseille,Summer,20.14,31.35,15.51,2.85,1.367,26.23,62.9,Moderate
+France,Lyon,Summer,0.65,1.21,14.55,15.21,0.573,26.63,37.0,Good
+France,Marseille,Autumn,0.99,2.04,4.45,8.22,0.916,14.14,25.6,Good
+France,Lyon,Spring,21.37,42.78,18.56,4.34,0.632,34.02,64.4,Moderate
+France,Marseille,Spring,30.95,64.37,22.51,1.43,0.055,35.08,85.8,Moderate
+France,Marseille,Summer,13.79,30.63,0.23,1.79,0.375,30.31,24.7,Good
+France,Paris,Spring,30.31,54.6,20.66,10.77,1.275,23.6,84.0,Moderate
+France,Paris,Summer,30.5,70.2,20.1,10.2,1.2,45.0,80.5,Moderate
+France,Paris,Winter,45.2,90.1,35.5,15.1,2.1,30.2,120.3,Unhealthy for Sensitive Groups
+France,Paris,Spring,,55.0,18.2,8.5,0.9,50.1,60.2,Moderate
+France,Paris,Autumn,60.1,120.4,40.0,20.0,2.5,25.5,150.1,Unhealthy
+France,Paris,Summer,25.0,40.0,15.5,9.0,1.0,55.0,55.0,Moderate

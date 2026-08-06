@@ -1,0 +1,103 @@
+Country,City,Season,PM2.5,PM10,NO2,SO2,CO,O3,AQI_Value,AQI_Category
+UK,Birmingham,Winter,,52.0,16.48,15.22,0.629,27.18,81.9,Moderate
+UK,Birmingham,Autumn,9.98,19.96,32.6,2.66,1.661,13.74,48.9,Good
+UK,Manchester,Spring,16.67,,3.97,11.06,1.363,10.18,59.1,Moderate
+UK,Birmingham,Autumn,35.29,73.86,,8.34,0.897,23.85,90.2,Moderate
+UK,London,Summer,6.36,15.77,27.73,3.49,1.193,11.41,39.3,Good
+UK,London,Spring,53.98,107.63,,19.32,1.002,21.92,130.2,Unhealthy for Sensitive Groups
+UK,London,Spring,36.48,78.82,39.99,17.69,0.682,29.58,102.2,Unhealthy for Sensitive Groups
+UK,London,Spring,10.88,23.76,21.22,9.2,0.62,23.68,45.9,Good
+UK,London,Summer,27.61,,12.45,5.5,0.95,33.36,64.2,Moderate
+UK,Birmingham,Autumn,39.22,90.87,39.92,7.78,0.673,18.72,109.3,Unhealthy for Sensitive Groups
+UK,London,Summer,22.67,52.27,21.48,4.98,0.088,24.27,57.6,Moderate
+UK,Manchester,Summer,,64.59,1.26,6.93,0.367,24.96,79.2,Moderate
+UK,London,Summer,15.32,27.67,19.47,2.04,1.2,46.01,79.9,Moderate
+UK,Birmingham,Autumn,18.75,39.79,12.62,12.06,1.328,25.78,57.7,Moderate
+UK,Birmingham,Summer,19.14,,17.09,9.21,0.696,30.28,73.6,Moderate
+UK,Manchester,Spring,39.09,65.58,28.21,12.72,1.141,12.13,98.7,Moderate
+UK,Birmingham,Autumn,24.57,40.06,27.65,10.56,0.628,20.73,76.1,Moderate
+UK,Birmingham,Winter,4.92,11.98,25.25,10.75,0.098,36.61,48.9,Good
+UK,Manchester,Summer,51.18,91.59,12.52,14.58,0.055,25.95,106.6,Unhealthy for Sensitive Groups
+UK,Birmingham,Winter,16.06,35.36,24.57,,0.785,47.31,50.4,Moderate
+UK,Birmingham,Spring,36.63,64.79,23.63,1.49,1.182,31.59,101.8,Unhealthy for Sensitive Groups
+UK,Birmingham,Autumn,10.42,22.22,10.33,12.35,0.793,4.53,37.8,Good
+UK,London,Winter,20.28,33.25,13.16,3.74,1.182,27.63,77.9,Moderate
+UK,Birmingham,Spring,43.33,90.33,25.48,8.96,1.588,14.2,140.1,Unhealthy for Sensitive Groups
+UK,Manchester,Winter,48.68,74.55,17.75,6.26,0.603,18.91,99.3,Moderate
+UK,Birmingham,Autumn,34.84,55.02,4.96,2.07,0.008,30.17,72.8,Moderate
+UK,Manchester,Winter,13.76,31.13,20.96,1.34,0.916,30.08,54.8,Moderate
+UK,Manchester,Spring,30.51,59.6,19.71,18.76,1.185,32.67,93.3,Moderate
+UK,Manchester,Summer,48.34,83.99,0.48,6.57,0.564,12.15,120.7,Unhealthy for Sensitive Groups
+UK,Manchester,Spring,36.84,74.39,30.29,9.02,0.905,32.35,120.1,Unhealthy for Sensitive Groups
+UK,London,Winter,15.41,29.03,8.59,6.65,0.88,37.91,52.3,Moderate
+UK,Birmingham,Summer,22.9,48.16,27.35,2.6,0.469,25.72,66.0,Moderate
+UK,Manchester,Winter,6.27,15.55,9.31,16.02,1.377,36.67,69.9,Moderate
+UK,Manchester,Winter,29.8,61.73,31.26,15.05,1.149,25.52,80.9,Moderate
+UK,Manchester,Winter,32.04,51.42,23.81,8.03,1.728,16.51,98.1,Moderate
+UK,London,Autumn,11.85,23.62,13.57,15.87,0.853,18.65,26.7,Good
+UK,London,Winter,1.92,4.58,26.4,13.97,0.148,46.47,38.8,Good
+UK,London,Winter,29.23,49.42,30.89,2.08,0.409,37.01,86.2,Moderate
+UK,London,Winter,33.66,75.55,2.9,9.56,1.386,33.12,93.2,Moderate
+UK,Manchester,Spring,42.46,105.83,16.42,13.04,1.288,36.97,114.0,Unhealthy for Sensitive Groups
+UK,Manchester,Spring,10.87,23.96,3.73,11.14,1.163,27.28,35.3,Good
+UK,Birmingham,Summer,,8.41,21.95,4.72,0.709,37.88,53.7,Moderate
+UK,London,Winter,25.9,49.58,7.66,3.72,0.952,19.55,37.9,Good
+UK,Manchester,Autumn,54.1,114.45,30.26,9.77,1.773,9.46,124.3,Unhealthy for Sensitive Groups
+UK,Manchester,Spring,42.08,96.68,15.62,13.89,0.741,23.92,109.9,Unhealthy for Sensitive Groups
+UK,London,Autumn,19.92,45.51,30.78,15.48,0.2,10.47,59.1,Moderate
+UK,Manchester,Summer,3.67,7.78,,10.03,0.423,38.43,40.8,Good
+UK,Manchester,Spring,,37.7,21.1,4.94,0.68,42.14,60.9,Moderate
+UK,London,Spring,37.4,58.56,22.56,14.37,0.788,35.8,132.3,Unhealthy for Sensitive Groups
+UK,Birmingham,Spring,27.0,66.5,33.71,,0.361,35.75,86.4,Moderate
+UK,Birmingham,Summer,34.26,83.01,31.4,12.73,1.313,20.5,114.7,Unhealthy for Sensitive Groups
+UK,London,Autumn,33.28,50.93,17.51,7.36,1.085,28.62,88.6,Moderate
+UK,Birmingham,Autumn,27.11,43.13,20.66,14.39,1.228,7.19,72.4,Moderate
+UK,Birmingham,Summer,55.56,131.02,8.94,13.37,0.95,32.24,113.6,Unhealthy for Sensitive Groups
+UK,Birmingham,Autumn,15.61,32.86,19.9,8.24,0.633,28.58,58.9,Moderate
+UK,Birmingham,Autumn,19.83,42.89,24.51,9.04,1.002,17.13,75.6,Moderate
+UK,Manchester,Spring,17.91,39.84,3.03,16.75,1.788,41.91,88.3,Moderate
+UK,Manchester,Summer,10.22,19.71,24.26,13.18,1.969,29.38,74.8,Moderate
+UK,Birmingham,Spring,40.44,96.08,36.32,8.82,0.456,17.16,105.8,Unhealthy for Sensitive Groups
+UK,Birmingham,Summer,32.52,68.62,47.13,8.62,2.437,32.79,119.2,Unhealthy for Sensitive Groups
+UK,London,Spring,6.31,11.15,22.55,6.04,1.031,30.87,55.1,Moderate
+UK,Manchester,Winter,,0.32,21.83,13.42,1.697,20.72,41.8,Good
+UK,Manchester,Winter,30.69,58.82,,13.3,1.149,31.23,93.0,Moderate
+UK,London,Winter,38.48,80.32,,9.05,2.64,46.38,137.7,Unhealthy for Sensitive Groups
+UK,London,Winter,31.38,49.05,21.33,,0.509,17.92,90.0,Moderate
+UK,London,Summer,52.67,105.93,19.77,21.75,0.976,31.15,136.4,Unhealthy for Sensitive Groups
+UK,Birmingham,Summer,22.06,34.29,40.45,10.06,0.152,2.23,58.2,Moderate
+UK,London,Winter,14.64,35.61,9.1,7.84,0.859,30.2,50.9,Moderate
+UK,London,Summer,7.67,15.39,16.55,9.72,1.708,32.93,59.6,Moderate
+UK,Birmingham,Spring,37.99,83.18,13.35,8.07,1.311,33.27,102.0,Unhealthy for Sensitive Groups
+UK,London,Autumn,39.79,70.18,23.16,14.43,1.075,40.77,97.1,Moderate
+UK,Manchester,Spring,38.01,71.57,26.2,3.99,1.04,26.05,97.6,Moderate
+UK,London,Autumn,14.34,31.71,19.03,9.23,1.412,31.55,57.0,Moderate
+UK,Manchester,Spring,38.18,70.49,28.64,0.5,0.981,10.09,107.3,Unhealthy for Sensitive Groups
+UK,London,Autumn,40.02,78.24,19.48,7.98,0.351,34.03,95.0,Moderate
+UK,London,Autumn,17.95,31.56,10.85,13.42,1.359,31.23,84.8,Moderate
+UK,London,Winter,,27.36,36.5,8.73,1.42,28.11,70.7,Moderate
+UK,Manchester,Winter,20.12,43.35,21.57,6.6,1.551,20.31,71.6,Moderate
+UK,London,Autumn,35.51,78.16,26.56,5.04,0.407,15.68,96.4,Moderate
+UK,Birmingham,Winter,37.07,89.41,31.37,5.87,0.941,47.43,117.5,Unhealthy for Sensitive Groups
+UK,Birmingham,Winter,36.56,81.79,10.35,5.17,0.425,51.36,99.0,Moderate
+UK,Birmingham,Autumn,10.15,23.53,28.42,12.41,0.821,36.52,45.5,Good
+UK,London,Spring,23.92,39.1,16.17,10.15,0.65,15.17,59.5,Moderate
+UK,Birmingham,Autumn,36.99,65.29,35.25,10.9,1.874,43.37,117.4,Unhealthy for Sensitive Groups
+UK,London,Autumn,40.87,79.3,4.96,12.51,0.99,19.66,87.5,Moderate
+UK,London,Winter,7.3,16.69,21.64,11.64,0.973,33.81,50.2,Moderate
+UK,London,Autumn,22.64,37.31,9.34,5.71,0.188,23.33,64.7,Moderate
+UK,Manchester,Spring,49.65,77.66,30.33,17.45,0.353,41.69,113.9,Unhealthy for Sensitive Groups
+UK,Birmingham,Spring,,36.17,7.9,9.29,0.511,38.28,64.4,Moderate
+UK,London,Summer,16.83,30.65,19.19,7.33,0.999,10.64,48.7,Good
+UK,London,Spring,27.24,65.98,20.85,17.98,0.718,43.39,107.8,Unhealthy for Sensitive Groups
+UK,Birmingham,Spring,52.13,113.41,14.29,5.28,0.886,4.87,111.7,Unhealthy for Sensitive Groups
+UK,London,Summer,24.23,60.21,15.95,7.97,1.296,19.15,75.7,Moderate
+UK,Birmingham,Spring,15.65,34.1,25.87,7.92,0.516,20.67,56.9,Moderate
+UK,Manchester,Winter,48.16,107.48,1.16,6.56,0.923,51.54,119.2,Unhealthy for Sensitive Groups
+UK,London,Winter,27.0,50.3,27.08,8.87,0.623,19.33,73.3,Moderate
+UK,Birmingham,Spring,41.93,91.56,13.37,19.25,1.025,36.77,110.8,Unhealthy for Sensitive Groups
+UK,Birmingham,Winter,,,34.96,5.6,1.248,33.65,82.2,Moderate
+UK,Birmingham,Summer,11.89,19.37,27.94,0.02,0.923,15.53,77.0,Moderate
+UK,London,Autumn,5.69,11.41,16.65,9.35,1.111,13.59,45.4,Good
+UK,London,Spring,19.59,,20.01,1.96,0.092,6.93,53.2,Moderate
+UK,Birmingham,Winter,27.9,46.97,38.08,10.21,1.51,21.54,98.3,Moderate
